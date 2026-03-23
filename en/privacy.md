@@ -8,12 +8,12 @@ ToolFlow is a collection of offline utility tools designed for everyday tasks.
 
 ToolFlow does not collect, store, or transmit personal data.
 
-All calculations, conversions, and tools operate entirely on-device.  
+All calculations, conversions, and tools operate entirely on-device.
 ToolFlow does not use analytics services, advertising frameworks, or tracking technologies.
 
 ## Permissions
 
-Some tools may request device permissions (such as camera, microphone, NFC, or location) only when the relevant feature is used.  
+Some tools may request device permissions (such as camera, microphone, NFC, or location) only when the relevant feature is used.
 Data from these features is processed locally on the device and is never transmitted externally.
 
 ## Third-Party Services
