@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "ToolFlow Destek"
+lang: "tr"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/tr/support/"
+continue_label: "ToolFlow’a devam et"
+---
 # ToolFlow Destek
 
 ToolFlow'u kullandığınız için teşekkürler.

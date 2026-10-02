@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "ToolFlow Support"
+lang: "en"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/en/support/"
+continue_label: "Continue to ToolFlow"
+---
 # ToolFlow Support
 
 Thank you for using ToolFlow.

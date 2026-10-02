@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "ツールフロー サポート"
+lang: "ja"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/ja/support/"
+continue_label: "ツールフローに移動"
+---
 # ツールフロー サポート
 
 ツールフロー をご利用いただきありがとうございます。

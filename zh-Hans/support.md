@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "工具坞 支持"
+lang: "zh-Hans"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/zh-Hans/support/"
+continue_label: "前往工具坞"
+---
 # 工具坞 支持
 
 感谢您使用 工具坞。

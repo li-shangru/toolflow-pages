@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="{{ page.lang | escape }}" dir="{{ page.direction | escape }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }}</title>
+  <link rel="canonical" href="{{ page.destination | escape }}">
+  <meta http-equiv="refresh" content="0; url={{ page.destination | escape }}">
+  <script>location.replace({{ page.destination | jsonify }} + location.hash);</script>
+  <style>
+    body { max-width: 48rem; margin: 3rem auto; padding: 0 1.25rem; font: 1rem/1.6 system-ui, sans-serif; color: #18202e; background: #fff; }
+    a { color: #176cf5; }
+    .forward-link { font-size: 1.125rem; }
+    @media (prefers-color-scheme: dark) { body { color: #f2f4f8; background: #171a20; } a { color: #75a8ff; } }
+  </style>
+</head>
+<body>
+  <p class="forward-link"><a href="{{ page.destination | escape }}">{{ page.continue_label | escape }}</a></p>
+  <main>{{ content }}</main>
+</body>
+</html>

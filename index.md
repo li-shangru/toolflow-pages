@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "ToolFlow"
+lang: "en"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/"
+continue_label: "Continue to ToolFlow"
+---
 # ToolFlow
 
 ToolFlow is a native iOS app for iPhone and iPad that bundles 71 tools into a single offline-first utility hub. 

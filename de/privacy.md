@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "ToolFlow Datenschutzrichtlinie"
+lang: "de"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/de/privacy/"
+continue_label: "Weiter zu ToolFlow"
+---
 # ToolFlow Datenschutzrichtlinie
 
 Zuletzt aktualisiert: März 2026

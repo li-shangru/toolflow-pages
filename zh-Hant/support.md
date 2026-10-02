@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "工具塢 支援"
+lang: "zh-Hant"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/zh-Hant/support/"
+continue_label: "前往工具塢"
+---
 # 工具塢 支援
 
 感謝您使用 工具塢。
