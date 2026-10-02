@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "工具塢 隱私權政策"
+lang: "zh-Hant"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/zh-Hant/privacy/"
+continue_label: "前往工具塢"
+---
 # 工具塢 隱私權政策
 
 最後更新：2026年3月

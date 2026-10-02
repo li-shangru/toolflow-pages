@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "Politique de confidentialité de ToolFlow"
+lang: "fr"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/fr/privacy/"
+continue_label: "Continuer vers ToolFlow"
+---
 # Politique de confidentialité de ToolFlow
 
 Dernière mise à jour : mars 2026

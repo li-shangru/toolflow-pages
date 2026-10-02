@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "ツールフロー プライバシーポリシー"
+lang: "ja"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/ja/privacy/"
+continue_label: "ツールフローに移動"
+---
 # ツールフロー プライバシーポリシー
 
 最終更新：2026年3月

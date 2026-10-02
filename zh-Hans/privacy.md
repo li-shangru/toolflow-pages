@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "工具坞 隐私政策"
+lang: "zh-Hans"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/zh-Hans/privacy/"
+continue_label: "前往工具坞"
+---
 # 工具坞 隐私政策
 
 最后更新：2026年3月

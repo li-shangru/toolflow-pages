@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "ToolFlow Gizlilik Politikası"
+lang: "tr"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/tr/privacy/"
+continue_label: "ToolFlow’a devam et"
+---
 # ToolFlow Gizlilik Politikası
 
 Son güncelleme: Mart 2026

@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "툴플로 개인정보 처리방침"
+lang: "ko"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/ko/privacy/"
+continue_label: "툴플로로 이동"
+---
 # 툴플로 개인정보 처리방침
 
 최종 업데이트: 2026년 3월

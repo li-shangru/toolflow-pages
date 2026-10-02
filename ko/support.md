@@ -1,3 +1,11 @@
+---
+layout: "forward"
+title: "툴플로 지원"
+lang: "ko"
+direction: "ltr"
+destination: "https://toolflow.shangruli.chatgpt.site/ko/support/"
+continue_label: "툴플로로 이동"
+---
 # 툴플로 지원
 
 툴플로를 사용해 주셔서 감사합니다.
